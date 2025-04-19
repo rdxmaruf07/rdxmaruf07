@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdul Maruk Khan</h1>
+<h3 align="center">🚀 Linux Lover | 👨‍💻 CS Student | 💡 Tech Enthusiast</h3>
 
-<!--
-**rdxmaruf07/rdxmaruf07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Hack.+Repeat.;Open+Source+Lover+%F0%9F%92%BB;Python+%7C+C+%7C+Bash+%7C+HTML+%26+CSS;Always+learning+new+tech+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🎓 Computer Science student at ITAHAR Government Polytechnic  
+- 🔐 Aspiring **CEH**  
+- 🛠️ Building projects with **Python**, **C**, **MySQL**, and **OpenCV**  
+- 💬 Ask me about Linux, Cybersecurity, AI Projects  
+- 📫 Reach me at **abdulmaruf9024@gmail.com**  
+- 🌐 Coming soon: [LinkedIn profile]  
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,html,css,git,github,vscode,arch" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulmaruf9024&show_icons=true&theme=tokyonight" alt="github stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmaruf9024&theme=tokyonight" alt="streak stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmaruf9024&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+### 🔥 Fun Quote
+
+> “Stay focused, stay humble, and let your code speak for you.” – Abdul 🔥
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="mailto:abdulmaruf9024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- <a href="https://your-linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+  <a href="https://github.com/abdulmaruf9024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
