@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Maruk Khan</h1>
+<h1 align="center">Hi 👋, I'm MaruF KHaN </h1>
 <h3 align="center">🚀 Linux Lover | 👨‍💻 CS Student | 💡 Tech Enthusiast</h3>
 
 <p align="center">
@@ -29,18 +29,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulmaruf9024&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rdxmaruf07&show_icons=true&theme=tokyonight" alt="github stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmaruf9024&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdxmaruf07&theme=tokyonight" alt="streak stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmaruf9024&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxmaruf07&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 ---
 
 ### 🔥 Fun Quote
 
-> “Stay focused, stay humble, and let your code speak for you.” – Abdul 🔥
+> “Stay focused, stay humble, and let your code speak for you.” – MaruF 🔥
 
 ---
 
