@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student at ITAHAR Government Polytechnic  
+- 🎓 Computer Science student at ......... 
 - 🔐 Aspiring **CEH**  
 - 🛠️ Building projects with **Python**, **C**, **MySQL**, and **OpenCV**  
 - 💬 Ask me about Linux, Cybersecurity, AI Projects  
